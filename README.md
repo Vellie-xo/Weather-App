@@ -44,4 +44,4 @@ To run this project on your local machine, follow these simple steps:
 
 1. Clone the repository to your local computer:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/weather-app.git](https://github.com/YOUR-USERNAME/weather-app.git)
+   git clone(https://github.com/Vellie-xo/Weather-App))
